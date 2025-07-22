@@ -49,4 +49,28 @@ The dashboard includes the following analytics:
 ---
 
 ## 📁 File Structure
+📦 Sales-Revenue-Dashboard
+┣ 📄 Sales_Dashboard.xlsx
+┣ 📄 Screenshot_2025-07-20_153722.png
+┗ 📄 README.md
+
+---
+
+## 💡 Learning Outcomes
+
+- Created an interactive Excel dashboard from scratch  
+- Interpreted complex data into business-friendly visuals  
+- Analyzed sales KPIs, product performance, and trends  
+- Demonstrated storytelling using Excel visualization
+
+---
+
+## 🔗 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhanu-kumar-tiwari-177a321bb)
+- 💻 [GitHub](https://github.com/Bhanukumartiwari)
+
+---
+
+Feel free to customize the project with slicers, filters, or Power BI integration for next-level interactivity.
 
